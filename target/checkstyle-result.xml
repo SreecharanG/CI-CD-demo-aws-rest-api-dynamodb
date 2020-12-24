@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/handler/GetOrderHandler.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/handler/CreateOrderHandler.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/handler/UpdateOrderHandler.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/handler/OrderRequestStreamHandler.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/handler/DeleteOrderHandler.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/handler/GetOrdersHandler.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/config/OrderModule.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/config/OrderComponent.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/dao/OrderDao.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/Order.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/response/GetOrdersResponse.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/response/ErrorMessage.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/response/GatewayResponse.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/request/GetOrdersRequest.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/request/UpdateOrderRequest.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/request/CreateOrderRequest.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/OrderPage.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/exception/UnableToUpdateException.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/exception/CouldNotCreateOrderException.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/exception/UnableToDeleteException.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/exception/TableDoesNotExistException.java">
+</file>
+<file name="/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/exception/OrderDoesNotExistException.java">
+</file>
+</checkstyle>

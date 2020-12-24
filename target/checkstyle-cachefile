@@ -1,0 +1,24 @@
+#Wed Dec 23 19:29:01 IST 2020
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/response/GatewayResponse.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/request/GetOrdersRequest.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/handler/OrderRequestStreamHandler.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/response/GetOrdersResponse.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/handler/UpdateOrderHandler.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/dao/OrderDao.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/handler/CreateOrderHandler.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/config/OrderComponent.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/exception/OrderDoesNotExistException.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/handler/GetOrdersHandler.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/response/ErrorMessage.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/Order.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/handler/GetOrderHandler.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/exception/UnableToDeleteException.java=1608731920000
+configuration*?=583C702CEBE375A45123CD44C141ECAEEE62BC29
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/config/OrderModule.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/exception/CouldNotCreateOrderException.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/request/UpdateOrderRequest.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/OrderPage.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/handler/DeleteOrderHandler.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/exception/TableDoesNotExistException.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/exception/UnableToUpdateException.java=1608731920000
+/Users/charan/Desktop/demo-aws-rest-api-dynamodb/src/main/java/com/amazonaws/model/request/CreateOrderRequest.java=1608731920000
