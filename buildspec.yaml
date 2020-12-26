@@ -3,7 +3,7 @@ version: 0.1
 phases:
   install:
     commands:
-      - mvn package
+      - mvn -version
       - sam package --template-file template.yaml --output-template-file packaged.yaml --s3-bucket vnsny-ci-cd-pipeline-bucket
       - sam deploy --template-file packaged.yaml --stack-name sam-orderHandler --capabilities CAPABILITY_IAM --parameter-overrides MyParameterSample=MySampleValue 
       - aws cloudformation describe-stacks --stack-name sam-orderHandler --query 'Stacks[].Outputs' 
