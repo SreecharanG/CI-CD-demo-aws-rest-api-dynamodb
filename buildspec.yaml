@@ -2,8 +2,8 @@ version: 0.1
 
 phases:
   install:
-    commands: 
-      -aws cloudformation package --template-file template.yaml --s3-bucket vnsny-ci-cd-pipeline-bucket --output-template-file packaged.yaml
+    commands:
+      - aws cloudformation package --template-file template.yaml --s3-bucket vnsny-ci-cd-pipeline-bucket --output-template-file packaged.yaml
       
 artifacts: 
   type: zip 
