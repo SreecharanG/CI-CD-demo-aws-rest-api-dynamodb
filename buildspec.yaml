@@ -5,7 +5,7 @@ phases:
     commands:
       - mvn -version
       - sam package --template-file template.yaml --output-template-file packaged.yaml --s3-bucket vnsny-ci-cd-pipeline-bucket
-      - sam deploy --template-file packaged.yaml --stack-name sam-orderHandler --capabilities CAPABILITY_IAM --on-failure DO_NOTHING --parameter-overrides MyParameterSample=MySampleValue 
+      - sam deploy --template-file packaged.yaml --stack-name sam-orderHandler --capabilities CAPABILITY_IAM --parameter-overrides MyParameterSample=MySampleValue 
       - aws cloudformation describe-stacks --stack-name sam-orderHandler --query 'Stacks[].Outputs' 
       
 artifacts: 
